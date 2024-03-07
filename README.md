@@ -20,15 +20,18 @@ Before running the application, make sure you have Node.js and npm installed on 
 
 
 ```
- git clone https://github.com/SupRiya0629/TextAnalyzer_Supriya.git
+ git clone https://github.com/KRakeshRaki/text-analyzer.git
 
  ```
 
 ```
-cd TextAnalyzer_Supriya
+cd text-analyzer
 ```
-cd TextAnalyzer_supriya
+
+cd text-analyzer
+
 2.Open terminal or gitbash (Move to the directory of file)
+
  At first Node.js must be installed in your local system to run the below commands (https://nodejs.org/).
 ``` 
 npm install
